@@ -1,0 +1,6 @@
+package: github.com/autopp/plugintestworker
+import:
+- package: github.com/autopp/plugintestmaster
+  version: v0.0.1
+  subpackages:
+  - logger

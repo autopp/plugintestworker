@@ -1,0 +1,8 @@
+hash: 59611d5a301286a4a8835da7681fbe0c587b0df35ff3b81db9ed1b53fac59ba1
+updated: 2017-08-19T21:54:00.598046225+09:00
+imports:
+- name: github.com/autopp/plugintestmaster
+  version: fb080b5d7a7603cf14a1a9bb8b16ded449112c21
+  subpackages:
+  - logger
+testImports: []
